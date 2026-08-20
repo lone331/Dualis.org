@@ -1,59 +1,79 @@
-```markdown
-# Dualis.cg — Site vitrine
+Fait mon reuf 💪 Voilà une version propre, vendeuse et pro pour ton GitHub. 
 
-Site vitrine professionnel pour la présentation de mes services freelance (création de sites web, automatisation, dashboards) à destination des commerçants, indépendants et associations de Brazzaville.
+J'ai gardé ta base et je l'ai boostée pour que les clients à Brazzaville comprennent direct.
+# Dualis.cg 🌗
+### L’équilibre entre design et performance
 
-🔗 **Site en ligne :** [lone331.github.io/Dualis.org](https://lone331.github.io/Dualis.org/)
+Site vitrine professionnel pour présenter mes services freelance : création de sites web, automatisation, et dashboards de suivi.
+
+🔗 **Voir le site en ligne** : [lone331.github.io/Dualis.org](https://lone331.github.io/Dualis.org/)
+
+---
 
 ## À propos
 
-Mikael — étudiant en L3 Data-Science, basé à Brazzaville, Congo.
-Stack : Python (avancé — dev web, ML, DL), Rust (intermédiaire — ML, applications), SQL, NoSQL, R.
+Je suis **Mikael**, étudiant en L3 Data-Science basé à **Brazzaville, Congo**.  
+J’aide les commerçants, indépendants et associations à avoir une présence digitale pro, rapide et abordable.
 
-## Services proposés
+**Stack technique** : 
+`Python` · `Rust` · `SQL` · `NoSQL` · `R` · `HTML/CSS` · `ML` · `DL`
 
-| Service | Description | Prix |
-|---|---|---|
-| Site vitrine professionnel | Livré en 48h, présentation + services + photos + page de contact | 15 000 — 30 000 FCFA |
-| Automatisation de tâches | Scripts Python sur mesure, rapports automatiques (ventes, stock…) | 20 000 — 40 000 FCFA (+ maintenance 10 000-15 000 FCFA/mois en option) |
-| Mini-dashboard de suivi | Graphiques et chiffres clés à partir de données réelles | 25 000 — 50 000 FCFA |
+---
 
-## Stack technique du site
+## Services & Tarifs
 
-- HTML / CSS statique (pas de framework, pas de backend nécessaire)
-- Formulaire de contact géré via [Formspree](https://formspree.io/)
-- Hébergement gratuit sur GitHub Pages
+Pensés pour les TPE, PME et associations à Brazzaville. Livraison rapide.
 
-## Structure du projet
+| Service | Pour qui ? | Détails | Prix |
+| --- | --- | --- | --- |
+| **Site Vitrine Pro** | Commerçants, Assos | Livré en 48h. Présentation, services, photos, page contact responsive | **15 000 - 30 000 FCFA** |
+| **Automatisation** | Boutiques, Indépendants | Scripts Python : rapports ventes/stock, factures auto, exports WhatsApp | **20 000 - 40 000 FCFA** <br> *Maintenance: 10 000-15 000 FCFA/mois* |
+| **Mini-Dashboard** | Gérer ses chiffres | Graphiques et KPI à partir de vos données Excel/Google Sheets | **25 000 - 50 000 FCFA** |
 
-```
+*Les prix sont indicatifs et s'adaptent à votre projet.*
+
+---
+
+## Stack Technique du Site
+
+Ce site est pensé pour être **rapide, léger et gratuit à héberger**.
+- **Frontend** : HTML5 / CSS3 pur. Pas de framework, pas de ralentissement.
+- **Formulaire** : Géré par [Formspree](https://formspree.io/) pour recevoir les messages direct par mail.
+- **Hébergement** : Gratuit sur **GitHub Pages**.
+- **Logo** : Arbre de Vie en dualité Or/Bleu Nuit. Symbole d’équilibre Ciel-Terre.
+
+---
+
+## Structure du Projet
+
 .
-├── index.html      # Page principale
-├── style.css       # Styles
+├── index.html      # Page principale du site
+├── style.css       # Feuille de styles
+├── logo.png        # Logo Dualis - Arbre de Vie Dualité
 ├── image.png       # Photo de profil
-├── logo.png        # Logo
-└── README.md
-```
+└── README.md       # Ce fichier
+
+---
 
 ## Déploiement
 
-Le site est déployé automatiquement via **GitHub Pages** depuis la branche `main`.
-Toute modification poussée sur `main` est reflétée en ligne après quelques minutes.
+Le site est déployé automatiquement via **GitHub Pages** depuis la branche `main`.  
+Toute modification poussée sur `main` est en ligne en 2-3 minutes.
 
 ```bash
 git add .
-git commit -m "Description du changement"
-git push
-```
+git commit -m "feat: mise à jour des tarifs"
+git push origin main
+---
 
-## Contact
+## Me Contacter
 
-- 📱 WhatsApp : [+242 06 815 27 40](https://wa.me/242068152740)
-- 📧 Email : hodlone23@gmail.com
-- 📍 Brazzaville, Congo
+Prêt à lancer votre site ? Parlons-en 👇
+
+- *WhatsApp* : [+242 06 815 27 40](https://wa.me/242068152740) _Réponse rapide_
+- *Email* : hodlone23@gmail.com
+- *Localisation* : Brazzaville, Congo
 
 ---
-© 2026 Rich-Massoukou Hod Mikael Josué. Tous droits réservés.
-```
 
-Bon, file dormir — on reprend la liste des prospects demain, frais et dispo pour vraiment avancer. 💪
+© 2026 *Rich-Massoukou Hod Mikael Josué*. Tous droits réservés.
