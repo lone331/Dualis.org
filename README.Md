@@ -1,63 +1,59 @@
-=============================================
-SITE VITRINE — BRAZZAVILLE
-=============================================
+```markdown
+# Dualis.cg — Site vitrine
 
-FICHIERS :
-  - index.html  → La page principale (le site)
-  - style.css   → Le design et la mise en page
+Site vitrine professionnel pour la présentation de mes services freelance (création de sites web, automatisation, dashboards) à destination des commerçants, indépendants et associations de Brazzaville.
 
-COMMENT OUVRIR :
-  1. Double-clique sur index.html
-  2. Ça s'ouvre dans ton navigateur (Chrome, Firefox…)
-  3. C'est tout ! Pas besoin d'installer quoi que ce soit.
+🔗 **Site en ligne :** [lone331.github.io/Dualis.org](https://lone331.github.io/Dualis.org/)
 
-=============================================
-CE QUE TU DOIS CHANGER (cherche les ✏️ dans index.html)
-=============================================
+## À propos
 
-1. NAVIGATION (ligne ~12)
-   → Change "MonSite.cg" par ton nom d'entreprise
+Mikael — étudiant en L3 Data-Science, basé à Brazzaville, Congo.
+Stack : Python (avancé — dev web, ML, DL), Rust (intermédiaire — ML, applications), SQL, NoSQL, R.
 
-2. HERO - Ton prénom (ligne ~30)
-   → Change "Ton Prénom" par ton vrai prénom
+## Services proposés
 
-3. HERO - Description (ligne ~33-36)
-   → Adapte le texte à ta personnalité
+| Service | Description | Prix |
+|---|---|---|
+| Site vitrine professionnel | Livré en 48h, présentation + services + photos + page de contact | 15 000 — 30 000 FCFA |
+| Automatisation de tâches | Scripts Python sur mesure, rapports automatiques (ventes, stock…) | 20 000 — 40 000 FCFA (+ maintenance 10 000-15 000 FCFA/mois en option) |
+| Mini-dashboard de suivi | Graphiques et chiffres clés à partir de données réelles | 25 000 — 50 000 FCFA |
 
-4. HERO - Ta photo (ligne ~49-52)
-   → Mets ta photo (ta-photo.jpg) dans le même dossier
-   → Remplace le bloc vert par :
-      <div class="photo-placeholder"><img src="ta-photo.jpg" alt="Ton Prénom"></div>
+## Stack technique du site
 
-5. À PROPOS (ligne ~195-205)
-   → Mets ton vrai texte de présentation
+- HTML / CSS statique (pas de framework, pas de backend nécessaire)
+- Formulaire de contact géré via [Formspree](https://formspree.io/)
+- Hébergement gratuit sur GitHub Pages
 
-6. COORDONNÉES (ligne ~252-260)
-   → Mets ton vrai numéro de téléphone
-   → Mets ton vrai email
+## Structure du projet
 
-7. FOOTER (ligne ~280-290)
-   → Change "MonSite.cg" et "Ton Nom"
-   → Mets tes vrais liens WhatsApp, Facebook, Instagram
+```
+.
+├── index.html      # Page principale
+├── style.css       # Styles
+├── image.png       # Photo de profil
+├── logo.png        # Logo
+└── README.md
+```
 
-8. FORMULAIRE (ligne ~228)
-   → Pour recevoir les messages par email :
-      - Va sur https://formspree.io
-      - Crée un compte gratuit
-      - Ajoute action="https://formspree.io/f/TON_CODE" method="POST" au <form>
+## Déploiement
 
-=============================================
-POUR HÉBERGER GRATUITEMENT :
-=============================================
+Le site est déployé automatiquement via **GitHub Pages** depuis la branche `main`.
+Toute modification poussée sur `main` est reflétée en ligne après quelques minutes.
 
-Option 1 - Netlify (le plus simple) :
-  - Va sur https://app.netlify.com/drop
-  - Glisse ce dossier sur la page
-  - Ton site est en ligne !
+```bash
+git add .
+git commit -m "Description du changement"
+git push
+```
 
-Option 2 - GitHub Pages :
-  - Crée un repo sur github.com
-  - Uploade ces 2 fichiers
-  - Active GitHub Pages dans les settings
+## Contact
 
-=============================================
+- 📱 WhatsApp : [+242 06 815 27 40](https://wa.me/242068152740)
+- 📧 Email : hodlone23@gmail.com
+- 📍 Brazzaville, Congo
+
+---
+© 2026 Rich-Massoukou Hod Mikael Josué. Tous droits réservés.
+```
+
+Bon, file dormir — on reprend la liste des prospects demain, frais et dispo pour vraiment avancer. 💪
