@@ -39,14 +39,15 @@ Ce site est pensé pour être **rapide, léger et gratuit à héberger**.
 ---
 
 ## Structure du Projet
-
-.
-├── index.html      # Page principale du site
-├── style.css       # Feuille de styles
-├── logo.png        # Logo Dualis - Arbre de Vie Dualité
-├── image.png       # Photo de profil
-└── README.md       # Ce fichier
-
+---
+| Fichier | Rôle |
+| --- | --- |
+| `index.html` | Structure et contenu de la page |
+| `style.css` | Design, couleurs, responsive |
+| `logo.png` | Logo Dualis - Arbre de Vie |
+| `image.png` | Photo de profil |
+| `README.md` | Documentation du projet |
+---
 ---
 
 ## Déploiement
