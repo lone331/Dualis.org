@@ -1,9 +1,3 @@
-Fait mon reuf 💪 Voilà une version propre, vendeuse et pro pour ton GitHub. 
-
-J'ai gardé ta base et je l'ai boostée pour que les clients à Brazzaville comprennent direct.
-# Dualis.cg 🌗
-### L’équilibre entre design et performance
-
 Site vitrine professionnel pour présenter mes services freelance : création de sites web, automatisation, et dashboards de suivi.
 
 🔗 **Voir le site en ligne** : [lone331.github.io/Dualis.org](https://lone331.github.io/Dualis.org/)
